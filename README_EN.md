@@ -2,7 +2,7 @@
 
 Readme translate by ChatGPT-4
 
-Voicebank Download: [Click Here](github_release)
+Voicebank Download: [Click Here](https://github.com/colstone/Yamine_Renri_DiffSinger/releases/tag/Beta_Version)
 
 ### <font color=yellow>Please Note:</font>
 
