@@ -1,6 +1,6 @@
 # Yamine_Renri_DiffSinger
 
-[【English Ver.】](test_link)    [【Japanese Ver.】](test_link)
+[【English Ver.】](https://github.com/colstone/Yamine_Renri_DiffSinger/blob/main/README_EN.md)    [【Japanese Ver.】](https://github.com/colstone/Yamine_Renri_DiffSinger/blob/main/README_JA.md)
 
 声库下载：[点我](github_release)
 
