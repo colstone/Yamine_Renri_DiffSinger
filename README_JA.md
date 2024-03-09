@@ -2,7 +2,7 @@
 
 Readme translate by ChatGPT-4
 
-VBのダウンロード：[こちら](github_release)
+VBのダウンロード：[こちら](https://github.com/colstone/Yamine_Renri_DiffSinger/releases/tag/Beta_Version)
 
 ### <font color=yellow>ご注意ください：</font>
 
