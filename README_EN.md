@@ -16,16 +16,25 @@ The conversion and distribution of the voicebank have been authorized by Yamine 
 
 (Copied from the [Moegirl Encyclopedia_Yamine Renri](https://mzh.moegirl.org.cn/%E6%9A%97%E9%9F%B3Renri) introduction page)
 
-Real Name: Yamine Renri
-Original Character Design: kgr
-Aliases: Yamine Renri、闇音、レンリ、连璃、暗音renri、暗音连理、暗音莲理、暗音莲莉, etc.
-Age: 17 years old
-Height: 158cm
-Weight: 45kg
-Birthday: September 28
-Appearance: Fluffy, soft pink long hair, double ahoge, turquoise blue eyes.
-Voice Source: yuzuri
-Likes: The moon, stars, and clothes with lots of decorations and lace.
+- Name: Yamine Renri
+  
+- Original Character Design: kgr
+  
+- Aliases: Yamine Renri、闇音、レンリ、连璃、暗音renri、暗音连理、暗音莲理、暗音莲莉, etc.
+  
+- Age: 17 years old
+  
+- Height: 158cm
+  
+- Weight: 45kg
+  
+- Birthday: September 28
+  
+- Appearance: Fluffy, soft pink long hair, double ahoge, turquoise blue eyes.
+  
+- Voice Provider: yuzuri
+  
+- Likes: The moon, stars, and clothes with lots of decorations and lace.
 
 ---
 
